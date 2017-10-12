@@ -1,0 +1,42 @@
+.a{
+
+letter-spacing:10px;
+}
+.b{
+	line-height: 10px;
+}
+.c{
+	text-align: center;
+}
+.d{
+	text-decoration: underline;
+}
+
+.e{
+	text-indent: 10px;
+	
+}
+
+.f{
+	text-transform: capitalize;
+}
+.g{
+	vertical-align:left;
+	}
+	
+.h{
+	word-spacing:10px;
+}
+.i{
+	text-wrap:hyphens;
+}
+.j{
+	direction:inherit;
+}
+.k{
+	hanging-punctution:10px;
+}
+.l{
+	text-outline:10px;
+	]
+	
